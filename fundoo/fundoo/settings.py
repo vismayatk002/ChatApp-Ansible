@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'chatappdb',
         'USER': 'admin',
         'PASSWORD': 'vismayadeepak',
-        'HOST': 'database-3.cbsgr4lcbtyr.us-east-2.rds.amazonaws.com',
+        'HOST': 'database-service',
         'PORT': '3306',
     }
 }
